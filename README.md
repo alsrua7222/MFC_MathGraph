@@ -4,7 +4,7 @@
 # 실행 장면
 ![img](/res/Title.bmp/)
 ![main](/main.PNG/)
-![icon[(/res/ICON_FX.ico/)
+![icon](/res/ICON_FX.ico/)
 
 # 튜토리얼 장면
 
